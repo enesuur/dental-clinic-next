@@ -1,40 +1,65 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Dental Clinic Next.js
 
-## Getting Started
+This project features a robust dental clinic website built with a clean architecture using Next.js and TypeScript. The site is designed with HTML and CSS, offering a modern, responsive layout and seamless user experience. The architecture focuses on performance and maintainability, ensuring the site is both scalable and easy to manage. The website effectively presents the clinic's services with clear navigation and a user-friendly interface.
 
-First, run the development server:
+## Screenshots
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+![Home Page Of the Application](https://i.hizliresim.com/gosqz1t.png)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Demo
+Link will be added.
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+## Installation
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+Clone the repository on your machine and follow the steps below for a successful installation process.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+**Note:** Ensure your Node.js version is v18.\* or higher.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+### Getting Started:
 
-## Learn More
+1. **Install Dependencies:**
 
-To learn more about Next.js, take a look at the following resources:
+   Navigate to the root directory of the project and run:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+   ```
+   yarn install
+   or
+   npm install
+   ```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+   Run the Development Server:
 
-## Deploy on Vercel
+After the dependencies installed.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+2. **Run the Development Server:**
+   Navigate to the root directory of the project and run: start the development server with:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+   ```
+   npm run dev
+   or
+   yarn dev
+   ```
+
+3. **Final Step**
+   Open http://localhost:3000 with your browser to see the result.
+
+
+## Usage and Legal Warning
+
+Hi! This project is free to use for personal purposes. You can use it for your own website or for a client's project. However, reselling or redistributing this project is strictly prohibited and may result in legal consequences.
+
+If you're interested in purchasing a premium license for this project, feel free to connect with me on LinkedIn so we can discuss it further.
+
+## Developer
+
+- [@enesuur](https://www.github.com/enesuur)
+
+
+
+
+
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
